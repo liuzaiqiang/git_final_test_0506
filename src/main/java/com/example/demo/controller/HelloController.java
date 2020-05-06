@@ -13,7 +13,7 @@ public class HelloController {
 
     @RequestMapping("/info")
     public String showInfo() {
-        return "git测试55555555";
+        return "git测试888888888888888888888888888888";
     }
 
     // 开发人员写了一句话2222222222
